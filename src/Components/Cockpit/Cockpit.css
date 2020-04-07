@@ -1,0 +1,19 @@
+.red {
+    color: red;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+
+  .addPerson {
+      width: 40%;
+      border: 1px solid #eee;
+      /* box-shadow: 0 2px salmon; */
+      text-align: center;
+      margin: 16px auto;
+  }
+
+  .margin{
+    margin: 10px;
+  }
